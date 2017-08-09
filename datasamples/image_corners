@@ -1,0 +1,18 @@
+Everything's now 640*1230 px. Here are the new corner coords:
+IDL> print, lats[0,0]
+     -70.6351
+IDL> print, lons[0,0]
+      85.1134
+IDL> print, lats[639,0]
+     -64.9638
+IDL> print, lons[639,0]
+      86.2458
+IDL> print, lats[639,1229]
+     -62.0335
+IDL> print, lons[639,1229]
+      62.8522
+IDL> print, lats[0,1229]
+     -66.8868
+IDL> print, lons[0,1229]
+      56.2527
+
